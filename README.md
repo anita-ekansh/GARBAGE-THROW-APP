@@ -1,1 +1,2 @@
-# GARBAGE-THROW-APP
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
